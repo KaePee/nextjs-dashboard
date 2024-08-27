@@ -1,4 +1,4 @@
-# 🚀 Next.js Masterclass
+# 🚀 Next.js Dashboard
 
 This project is a guide to mastering Next.js, covering everything from the basics to advanced features.
 
